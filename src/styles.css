@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  margin-bottom: 10rem;
+}
+
+.page {
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
+
+button {
+  border: 1px solid darkblue;
+  background-color: yellow;
+  color: darkblue;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  height: 2rem;
+  width: 6rem;
+  font-weight: 900;
+}
