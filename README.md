@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.10.
 
+## The project
+
+A simple weather app to test fetching from end-points and play around with the Angular framework.
+
 ## Development server
 
 To start a local development server, run:
